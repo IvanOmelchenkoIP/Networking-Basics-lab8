@@ -1,0 +1,3 @@
+/home/ivan/socket_protocol/client/build/CMakeFiles/socket_client.dir
+/home/ivan/socket_protocol/client/build/CMakeFiles/edit_cache.dir
+/home/ivan/socket_protocol/client/build/CMakeFiles/rebuild_cache.dir

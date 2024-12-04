@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/socket_server.dir/src/main.cpp.o CMakeFiles/socket_server.dir/src/server.cpp.o CMakeFiles/socket_server.dir/src/house.cpp.o CMakeFiles/socket_server.dir/src/protocol_message.cpp.o CMakeFiles/socket_server.dir/src/protocol_handle.cpp.o -o socket_server 
